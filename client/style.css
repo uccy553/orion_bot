@@ -9,6 +9,7 @@
 
 body {
   background: #343541;
+  overflow-x: hidden;
 }
 
 #app {
